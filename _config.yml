@@ -19,7 +19,7 @@ description: 本站是迷乐的技术分享博客，内容涵盖学习笔记，P
 keywords: 迷乐,技术,博客,学习笔记,Python,自动化测试,IT博客,SQL,IT网站。
 favicon: favicon.png # Image must be in assets/images
 
-url:  # the base hostname & protocol for your site
+url: https://royxinxin.github.io # the base hostname & protocol for your site
 
 ## Gem
 gems:
