@@ -103,12 +103,12 @@ analytics :
 
 skkil:
   -
-    name: 测试工具
-    skills: [Appium, Pytest, allure-report, Fiddler, scrcpy, requests, selenium, unittest, Jemeter, Postman, newman, 禅道]
+    name: 游戏
+    skills: [貂蝉三杀, 小明上过铜标, 孙尚香三杀, 王者贼溜, 开心消消乐则厉害,]
   -
-    name: 熟悉语言
-    skills: [Python, SQL, html, Liquidj, java, bat]
+    name: 优点
+    skills: [沟通能力不错, 有爱心]
   -
-    name: 测试环境
-    skills: [Nginx, Tomcat, Linux, Android, Web, Git]
+    name: 缺点
+    skills: []
 
